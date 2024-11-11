@@ -468,7 +468,7 @@ export default function Component() {
               </div>
               <div className="mt-4">
                 <h4 className="font-semibold text-[#002B49] mb-2">Awards</h4>
-                <p>"Energy of the Year 2008" by the North Texas Association of Energy Engineers</p>
+                <p>&quot;Energy of the Year 2008&quot; by the North Texas Association of Energy Engineers</p>
               </div>
             </motion.div>
           </div>
@@ -503,7 +503,7 @@ export default function Component() {
                 We specialize in mechanical, electrical, plumbing, and renewable energy engineering, delivering state-of-the-art solutions for educational facilities, healthcare centers, and various other sectors.
               </p>
               <p className="text-lg text-gray-700">
-                At IDA Engineering, we're committed to pushing the boundaries of what's possible, creating sustainable, efficient,and innovative designs that stand the test of time.
+                At IDA Engineering, we&apos;re committed to pushing the boundaries of what&apos;s possible, creating sustainable, efficient,and innovative designs that stand the test of time.
               </p>
               <div className="mt-8 space-y-4">
                 <div className="flex items-center">
@@ -551,7 +551,7 @@ export default function Component() {
           >
             <Zap className="w-16 h-16 mx-auto mb-6 text-[#00A3E0]" />
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-[#002B49]">Ready to Transform Your Ideas into Reality?</h2>
-            <p className="text-xl mb-8 text-gray-600">Let's collaborate to create innovative engineering solutions that make a difference. Our team is ready to bring your vision to life.</p>
+            <p className="text-xl mb-8 text-gray-600">Let&apos;s collaborate to create innovative engineering solutions that make a difference. Our team is ready to bring your vision to life.</p>
             <Dialog>
               <DialogTrigger asChild>
                 <Button 
