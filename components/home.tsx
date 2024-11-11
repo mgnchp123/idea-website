@@ -104,7 +104,7 @@ const featuredProjects = [
   }
 ]
 
-export function Home() {
+export default function Component() {
   const targetRef = useRef(null)
   const [isMobile, setIsMobile] = useState(false)
   const [isMenuOpen, setIsMenuOpen] = useState(false)
